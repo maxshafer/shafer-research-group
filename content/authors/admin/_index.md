@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maxwell Shafer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University of Toronto
+    url: 'https://csb.utoronto.ca/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Comparative genomics, ethology, & evolutionary cell biology
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolution of behaviour (ethology)
+  - Comparative genomics
+  - Evolutionary cell biology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Biochemistry
+      institution: McGill University
+      year: 2017
+    - course: MSc in Developmental Biology
+      institution: Western University
+      year: 2011
+    - course: HBSc in Cell & Developmental Biology
+      institution: Western University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +40,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:max.shafer@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/maxwellshafer
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=xX0mXFoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/maxshafer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +65,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Assistant Professor
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maxwell Shafer is an Assistant Professor in the department of Cell & Systems Biology at the University of Toronto. He leads the Evolution of Sleep group, which studies the genomics and evolutionary history of sleep across animal phyla.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Max received both his M.Sc. and H.B.Sc. in Cell and Developmental Biology from the University of Western Ontario in London, Canada, where he worked with Dr. Sashko Damjanovski as a Queen Elizabeth II Graduate Scholar. He completed his PhD in Biochemistry in the laboratory of Dr. Maxime Bouchard at the Goodman Cancer Research Centre where he studied the developmental morphogenesis of prostate epithelia and the origins of prostate cancer as a Prostate Cancer Canada Graduate Scholar. Max then undertook post-doctoral work in the laboratory of Dr. Alex Schier, first at Harvard University, then at the Biozentrum at the University of Basel. In Basel he began work with Dr. Walter Salzburger on the evolutionary genomics of sleep in African cichlid fish.
