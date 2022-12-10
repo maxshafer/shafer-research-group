@@ -1,7 +1,9 @@
 # IDEs
 .idea/
-
 # Hugo
 /resources/
 public/
 assets/jsconfig.json
+.Rproj.user
+shafer-research-group.Rproj
+Cichlid_clips.mp4

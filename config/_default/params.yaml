@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-  font: native
+  theme_night: 
+  font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
   font_size: L
 
 # SEO
@@ -36,17 +36,17 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Dr. Maxwell Shafer. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 

@@ -5,10 +5,10 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+weight: 20 # Order that this section will appear.
 title: |
-  Shafer Lab | Evolution of Sleep
-hero_media: welcome.jpg
+  We study the evolution and genomics of sleep variation across ~~fish~~ animals
+hero_media: lufubu.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,6 +17,6 @@ design:
   css_class:
 ---
 
-<br>
 
-The **Shafer lab** in the Department of Cell & Systems Biology at the University of Toronto.
+
+
