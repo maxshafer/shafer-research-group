@@ -9,7 +9,7 @@ appearance:
   theme_day: mr robot
   theme_night: mr robot
   font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
-  font_size: xs
+  font_size: m
 
 # SEO
 
@@ -31,11 +31,11 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: false
 
