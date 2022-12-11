@@ -6,8 +6,6 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-title: |
-  We study the evolution and genomics of sleep variation across ~~fish~~ animals
 hero_media: lufubu.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,7 +14,11 @@ design:
   css_style:
   css_class:
 ---
+<br>
+<br>
+<br>
+<br>
 
-
+We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_*
 
 
