@@ -1,28 +1,16 @@
 ---
-widget: blank
-headless: true
-title: Testing Icons/Features
+title: My page
 type: landing
-active: true
-weight: 15
-
+active: false
 sections:
-  - block: features
+  - block: markdown
     content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: R
-          description: 90%
-          icon: brain
-          icon_pack: custom
-        - name: Statistics
-          description: 100%
-          icon: brain
-          icon_pack: custom
-        - name: Photography
-          description: 10%
-          icon: fish
-          icon_pack: custom
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
+
