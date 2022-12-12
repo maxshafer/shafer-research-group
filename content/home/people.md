@@ -17,10 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Assistant Professor
-#    - Researchers
-    - Grad Students
-#    - Administration
-#    - Visitors
+    - Graduate Students
+    - Post-docs
+    - Technicians
     - Alumni
 design:
   show_interests: false
