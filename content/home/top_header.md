@@ -6,7 +6,7 @@
 weight: 10 # Order that this section will appear.
 design:
   spacing:
-    padding: ['400px', '0', '400px', '0']
+    padding: ['300px', '0', '300px', '0']
   background:
     video:
       # Name of video in `assets/media/`.
@@ -15,4 +15,4 @@ design:
       flip: false
 ---
 
-<center><p style="color:#fff;font-size:2.75rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">Decoding the evolution and genomics of sleep</p><center>
+<p style="color:#fff;font-size:2.75rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">Decoding the evolution and genomics of sleep</p>

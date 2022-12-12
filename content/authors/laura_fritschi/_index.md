@@ -4,13 +4,13 @@ title: Laura Fritschi
 
 # Username (this should match the folder name)
 authors:
-  - Laura Fritschi
+  - laura
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Masters Student
+role: Masters Student (Co-Supervised with Dr. Walter Salzburger)
 
 # Organizations/Affiliations
 organizations:
