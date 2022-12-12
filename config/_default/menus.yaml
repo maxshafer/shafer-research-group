@@ -5,20 +5,14 @@
 
 main:
   - name: Home
-    url: #1_top_header
+    url: #top_header
     weight: 10
   - name: Research
-    url: #2_research
+    url: #research
     weight: 20
   - name: People
-    url: people
+    url: #people
     weight: 30
   - name: Publications
     url: publication
     weight: 40
-  - name: Contact
-    url: contact
-    weight: 50
-  - name: Tour
-    url: tour
-    weight: 50
