@@ -6,7 +6,9 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-
+design:
+  background:
+    color: "white"
 ---
 <center>The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b>
 
