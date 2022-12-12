@@ -15,9 +15,9 @@ We study the evolution and genomics of sleep variation across ~~fish~~ *_animals
 1) **Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes**
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
-        <div class="" style="max-width: 50%; max-height: 50%;">
-            <img src ="media/African_Great_Lakes.svg">
-            <img src ="media/lake_tanganyika.jpeg">
+        <div class="" style="max-width: 33%; max-height: 33%;">
+            <img src ="https://upload.wikimedia.org/wikipedia/commons/1/17/African_Great_Lakes.svg">
+            <img src ="https://upload.wikimedia.org/wikipedia/commons/9/96/Envisat_sees_Lake_Tanganyika_ESA219901.jpg">
         </div>
 
   <div class="" style="max-width: 80%; max-height: 80%;">
@@ -28,11 +28,11 @@ We study the evolution and genomics of sleep variation across ~~fish~~ *_animals
 2) **Macro-evolutionary comparisons across bony and cartilaginous fish, and across all vertebrates**
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
-        <div class="" style="max-width: 50%; max-height: 50%;">
-            <img src ="media/Adolphe_Millot_poissonsa_A.jpeg">
+        <div class="" style="max-width: 35%; max-height: 35%;">
+            <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Adolphe_Millot_poissons-pour_tous.jpg/788px-Adolphe_Millot_poissons-pour_tous.jpg?20140930204150">
         </div>
 
-  <div class="" style="max-width: 50%; max-height: 50%;">
-            <img src ="media/Adolphe_Millot_poissons_B.jpeg">
+  <div class="" style="max-width: 35%; max-height: 35%;">
+            <img src ="https://upload.wikimedia.org/wikipedia/commons/8/8a/Adolphe_Millot_poissons_A.jpg">
         </div>
     </div>
