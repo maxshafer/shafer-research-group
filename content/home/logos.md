@@ -1,14 +1,14 @@
 ---
 widget: featurette
 headless: true
-weight: 60
+weight: 75
 # title: Features
 # subtitle: Document _anything_ ✨
 design:
   background:
     color: 'white'
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['0', '0', '0', '0']
 
 feature:
   - icon: University_of_Toronto-Logo.wine

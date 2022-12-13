@@ -10,22 +10,21 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 70
 
 title:
 subtitle:
 
 design:
-  columns: '1'
   background:
-    image: lep_fish.jpg
+    image: IMG_5248.jpg
     image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
+    image_parallax: true
+#    image_position: center
+#    image_size: cover
     text_color_light: true
   spacing:
-    padding: ['0px', '0', '0px', '0']
+    padding: ['0', '0', '0', '0']
 advanced:
   css_class: fullscreen
 ---

@@ -9,7 +9,7 @@ weight: 35 # Order that this section will appear.
 title: 'Featured publications:'
 design:
   spacing:
-    padding: ['25px', '200px', '25px', '200px']
+    padding: ['25px', '0', '25px', '0']
   columns: '1'
   background:
     color: "white"

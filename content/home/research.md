@@ -6,11 +6,11 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-title: Research Overview
+#title: Research Overview
 design:
   spacing:
-    padding: ['25px', '200px', '25px', '200px']
-  columns: '1'
+    padding: ['25px', '0', '25px', '0']
+  columns: '2'
   background:
     color: "white"
     text_color_light: false
