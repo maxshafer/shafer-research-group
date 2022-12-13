@@ -7,7 +7,7 @@
 
 appearance:
   font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
-  font_size: s
+  font_size: m
   background:
     color: 'black'
     text_color: "black"
