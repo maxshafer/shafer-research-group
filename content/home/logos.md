@@ -7,6 +7,8 @@ weight: 60
 design:
   background:
     color: 'white'
+  spacing:
+    padding: ['20px', '0', '20px', '0']
 
 feature:
   - icon: University_of_Toronto-Logo.wine
