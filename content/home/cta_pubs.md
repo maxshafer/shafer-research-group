@@ -5,6 +5,8 @@ widget: blank
 headless: true
 weight: 50
 design:
+  spacing:
+    padding: ['0px', '0', '0px', '0']
   columns: '1'
 
 # Activate this widget? true/false
@@ -15,6 +17,7 @@ design:
     text_color_light: false
 ---
 
-{{% cta cta_link="./publication/" cta_text="View our publications" %}}
-{{% cta cta_link="https://scholar.google.com/citations?user=xX0mXFoAAAAJ&hl=en" cta_text="Google Scholar" %}}
+{{% cta cta_link="./publication/" cta_text="View our publications" %}} 
+{{% cta cta_link="https://scholar.google.com/citations?user=xX0mXFoAAAAJ&hl=en" cta_text="Google Scholar" %}} 
 {{% cta cta_link="https://pubmed.ncbi.nlm.nih.gov/?term=maxwell+shafer" cta_text="Pubmed" %}}
+

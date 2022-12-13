@@ -1,16 +1,28 @@
 ---
-title: My page
-type: landing
-active: false
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+widget: featurette
+headless: true
+weight: 60
+# title: Features
+# subtitle: Document _anything_ ✨
+design:
+  background:
+    color: 'white'
+
+feature:
+  - icon: University_of_Toronto-Logo.wine
+    icon_pack: custom
+    url: https://www.utoronto.ca/
+#    name: Project Documentation
+#    description: For users
+  - icon: csb_logo
+    icon_pack: custom
+    url: https://csb.utoronto.ca/
+#    name: Knowledge Base
+#    description: For teams
+  - icon: bch_logo
+    icon_pack: custom
+    url: https://biochemistry.utoronto.ca/
+#    name: Knowledge Base
+#    description: For teams
 ---
 

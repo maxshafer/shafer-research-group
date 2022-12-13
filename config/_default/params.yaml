@@ -6,6 +6,8 @@
 # Appearance
 
 appearance:
+  theme_day: apogee
+  theme_night: mr robot
   font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
   font_size: l
   background:

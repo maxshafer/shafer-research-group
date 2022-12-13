@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shafer Lab | CSB | UofT # Website name
+title: Sleep Evo-Eco-Geno Lab # Website name
 baseURL: 'https://shafer-lab.netlify.app' # Website URL
 
 ############################

@@ -1,9 +1,7 @@
-// Make page header alignment consistent with widget page header alignment
-.universal-wrapper h1 {
-  text-align: center;
+// Change featurette size
+.featurette-icon {
+  font-size: 20rem;
+  width: 100%;
+  line-height: 0.25;
 }
 
-// Center the CTA shortcode button
-.cta-group {
-  justify-content: center;
-}
