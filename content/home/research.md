@@ -26,10 +26,11 @@ We study the evolution and genomics of sleep variation across ~~fish~~ *_animals
     <div class="column" style="width:48%">
       <p align="justify"><b>1) Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes</b></p>
       <br>
+      <br>
       <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="max-width: 85%; max-height: 85%;">
           <figure>
-            <img src ="media/lt_phylo.jpg">
+            <img src ="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2930-4/MediaObjects/41586_2020_2930_Fig1_HTML.png">
             <figcaption><a href="https://doi.org/10.1038/s41586-020-2930-4">Lake Tanganyikan cichlid phylogeny, <i>Ronco et al, Nature, 2021</i></a></figcaption>
           </figure>
           </div>

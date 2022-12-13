@@ -23,7 +23,6 @@ feature:
 #    description: For teams
   - icon: bch_logo
     icon_pack: custom
-    url: https://biochemistry.utoronto.ca/
 #    name: Knowledge Base
 #    description: For teams
 ---

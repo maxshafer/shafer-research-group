@@ -6,7 +6,7 @@
 weight: 10 # Order that this section will appear.
 design:
   spacing:
-    padding: ['200px', '0', '200px', '0']
+    padding: ['350px', '0', '350px', '0']
   background:
     video:
       # Name of video in `assets/media/`.

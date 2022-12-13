@@ -8,12 +8,12 @@ weight: 40
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '200px'
-  is_fullscreen: true
+  slide_height: '500px'
+  is_fullscreen: false
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
-  interval: 3000
+  interval: 4000
   text_color: 'black'
 
 content:
