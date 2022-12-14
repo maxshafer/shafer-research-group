@@ -7,27 +7,6 @@
 
 }
 
-.featurette .section-subheading {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-weight: 400;
-  color: #333;
-}
-
-
-// Doesn't work
-.section-subheading article-title mb-0 mt-0 {
-  color: black;
-}
-
-.compact .section-subheading a {
-  color: #000;
-}
-
-.compact .article-title a {
-  color: #000;
-}
-
 // This works, and does stuff
 p {color: black}
 
