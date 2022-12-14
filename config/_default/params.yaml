@@ -8,9 +8,9 @@
 appearance:
   font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
   font_size: m
+  theme_day: minimal
   background:
     color: 'black'
-    text_color: "black"
 
 # SEO
 
@@ -31,7 +31,7 @@ marketing:
 # Site header
 
 header:
-  navbar:
+    navbar:
     enable: true
     align: r
     show_logo: true

@@ -52,5 +52,8 @@ content:
 design:
   columns: '2'
   spacing:
-    padding: ['20px', '0', '0', '0']
+    padding: ['0', '0', '0', '0']
+  background:
+    color: 'black'
+    text_color_light: true
 ---

@@ -6,6 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 35 # Order that this section will appear.
+active: false
 title: 'Featured publications:'
 design:
   spacing:

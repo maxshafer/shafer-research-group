@@ -1,22 +1,21 @@
 ---
-title:
+title: 'Featured publications:'
 subtitle:
+
 widget: blank
 headless: true
-weight: 50
+weight: 35
+
 design:
   spacing:
-    padding: ['100', '0', '0', '0']
-  columns: '2'
-  
-title: Full list of publications
+    padding: ['25px', '0', '25px', '0']
+  columns: '1'
+  background:
+    color: "white"
+    text_color_light: false
 
 # Activate this widget? true/false
 active: true
-design:
-  background:
-    color: "black"
-    text_color_light: true
 
 
 #{{% cta cta_link="./publication/" cta_text="View our publications" %}} 
@@ -28,11 +27,11 @@ design:
       .button {
         background-color: #a2bfd8;
         border: none;
-        padding: 15px 20px;
+        padding: 10px 15px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 20px;
+        font-size: 15px;
         margin: 4px 2px;
         cursor: pointer;
         border-radius: 12px;
@@ -40,11 +39,9 @@ design:
     </style>
 
 
-<p align = right>
-<a color: inherit; href="./publication/" class="button">Our Publications</a>
-<br>
+<p align = center>
+<a color: inherit; href="./publication/" class="button">All Publications</a>
 <a color: inherit; href="./publication/" class="button">Google Scholar</a>
-<br>
 <a color: inherit; href="./publication/" class="button">Pubmed</a>
 </p>
 

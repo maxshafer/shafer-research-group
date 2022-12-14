@@ -5,10 +5,10 @@
 
 main:
   - name: Research
-    url: #research
+    url: post
     weight: 10
   - name: People
-    url: #people
+    url: people
     weight: 20
   - name: Publications
     url: publication
