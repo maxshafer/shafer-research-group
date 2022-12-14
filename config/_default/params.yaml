@@ -11,7 +11,8 @@ appearance:
   theme_day: minimal
   background:
     color: 'black'
-
+    text_color_light: true
+    
 # SEO
 
 marketing:
