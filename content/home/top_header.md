@@ -16,5 +16,16 @@ design:
 advanced:
   css_class: fullscreen
 ---
+<head>
+<div>
+<style>
+.centered {
+  top:50%;
+  left:50%;
+  transform:translate(0,80%)
+}
+</style>
+</div>
+</head>
 
 <p class="centered" style="color:#fff;font-size:2.75rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">Decoding the evolution and genomics of sleep</p>

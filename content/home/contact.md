@@ -54,6 +54,6 @@ design:
   spacing:
     padding: ['0', '0', '0', '0']
   background:
-    color: 'black'
-    text_color_light: true
+    color: 'white'
+    text_color_light: false
 ---
