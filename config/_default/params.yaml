@@ -44,9 +44,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Maxwell Shafer, PhD. This work is licensed under {license}'
+    notice: '© {year} Maxwell Shafer, PhD. This work is licensed under CC BY-NC'
     license:
-      enable: false
+      enable: true
       allow_derivatives: true
       share_alike: true
       allow_commercial: false
