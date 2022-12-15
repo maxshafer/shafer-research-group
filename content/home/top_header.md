@@ -22,7 +22,7 @@ advanced:
 .centered {
   top:50%;
   left:50%;
-  transform:translate(0,80%)
+  transform:translate(0,200%)
 }
 </style>
 </div>
