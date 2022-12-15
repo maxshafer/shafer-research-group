@@ -8,6 +8,7 @@
 appearance:
   font: minimal # minimal, classic, rose, mr robot, cyberpunk, native
   font_size: m
+  theme_day: minimal
   background:
     color: 'black'
 

@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-What is the evolutionary history of sleep timing in fish and other vertebrates? What genomic, ecological, or paleontological events are associated with shifts in sleep timing in over >400my of vertebrate evolution?
+What is the evolutionary history of sleep timing in fish and other vertebrates? What genomic, ecological, or paleontological events are associated with shifts in sleep timing in over >400my of vertebrate evolution? 
 
 <!--more-->
 

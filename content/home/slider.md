@@ -18,6 +18,19 @@ design:
 
 content:
   slides:
+    - title: Expanded olfactory system in fishes capable of terrestrial exploration
+      content: Demian Burguera, Francesco Dionigi, Kristina Kverková, Sylke Winkler, Thomas Brown, Martin Pippel, Yicheng Zhang, Maxwell Shafer, Annika L.A. Nichols, Eugene Myers, Pavel Němec, Zuzana Musilova, bioRxiv, 2022
+      align: left
+      background:
+        position: right
+        color: '#111'
+        brightness: 0.5
+        media: olfaction_zuzu.jpg
+      link:
+        icon: file-pdf
+        icon_pack: fas
+        text: Full-text
+        url: https://doi.org/10.1101/2022.12.05.518831
     - title: Gene family evolution underlies cell-type diversification in the hypothalamus of teleosts
       content: Maxwell E. R. Shafer, Ahilya N. Sawh & Alexander F. Schier, Nature Ecology & Evolution, 2022
       align: left

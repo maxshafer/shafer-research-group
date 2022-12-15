@@ -40,7 +40,7 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
   spacing:
-    padding: ['25px', '200px', '25px', '200px']
+    padding: ['25px', '0', '25px', '0']
   background:
     color: "white"
     text_color_light: false
