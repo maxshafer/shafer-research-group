@@ -15,11 +15,20 @@
   margin: 0;
 }
 
+.hero-title {
+  font-size: 2rem;
+}
+
+.hero-lead {
+  font-size: 1rem;
+}
+
 .centered {
   position: fixed; /* or absolute */
   top: 50%;
   left: 50%;
-  /* bring your own prefixes transform: translate(-50%, -50%);*/
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
 }
 
 // This works, and does stuff
