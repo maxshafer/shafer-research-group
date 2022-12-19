@@ -41,7 +41,7 @@ active: true
 
 <p align = center>
 <a color: inherit; href="./publication/" class="button">All Publications</a>
-<a color: inherit; href="./publication/" class="button">Google Scholar</a>
-<a color: inherit; href="./publication/" class="button">Pubmed</a>
+<a color: inherit; href="https://scholar.google.com/citations?user=xX0mXFoAAAAJ&hl=en" class="button">Google Scholar</a>
+<a color: inherit; href="https://pubmed.ncbi.nlm.nih.gov/?term=maxwell+shafer" class="button">Pubmed</a>
 </p>
 
