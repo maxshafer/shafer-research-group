@@ -7,7 +7,7 @@ title: Research Overview
 subtitle: ''
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # Position of this section on the page
 weight: 20
@@ -40,7 +40,7 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
   spacing:
-    padding: ['25px', '0', '25px', '0']
+    padding: ['150px', '0', '150px', '0']
   background:
     color: "white"
     text_color_light: false
