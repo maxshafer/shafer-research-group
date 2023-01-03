@@ -6,8 +6,11 @@ headless: true  # This file represents a page section.
 title: Research Overview
 subtitle: ''
 
+# Activate this widget? true/false
+active: false
+
 # Position of this section on the page
-weight: 1
+weight: 20
 
 content:
   # Filter content to display
@@ -15,7 +18,6 @@ content:
     # The folders to display content from
     folders:
       - post
-      - Macroevolution
     tag: ''
     category: ''
     publication_type: ''
@@ -25,7 +27,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 3
   # Choose how many pages you would like to offset by
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
@@ -37,10 +39,11 @@ design:
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
+  spacing:
+    padding: ['150px', '0', '150px', '0']
   background:
     color: "white"
     text_color_light: false
-  
 ---
 
 <p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b>

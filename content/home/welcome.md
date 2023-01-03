@@ -11,7 +11,7 @@ active: true
 #title: Research Overview
 design:
   spacing:
-    padding: ['150px', '0', '150px', '0']
+    padding: ['150px', '0', '75px', '0']
   columns: '1'
   background:
     color: "white"

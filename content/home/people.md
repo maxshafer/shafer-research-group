@@ -3,13 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Lab Members
 subtitle:
