@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 # <p style="color:#fff">SHAFER LAB - Cell & Systems Biology @ UofT COACH</p>
 weight: 30 # Order that this section will appear.
-
+active: false
 design:
   background:
     image: lep_fish_2.jpg
