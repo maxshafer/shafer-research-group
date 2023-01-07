@@ -1,6 +1,10 @@
 ---
-title: 3) Identifying and characterising new sleep genes
+title: Identifying and characterising new sleep genes
 date: 2022-01-01
+design:
+  background:
+    color: "white"
+    text_color_light: false
 ---
 
 We use aim to use a combination of  traditional model organisms, as well as functional genomic, behavioural, molecular, and circuit based techniques to characterise novel sleep genes identified through our evolutionary comparisons.

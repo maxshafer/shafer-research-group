@@ -1,5 +1,5 @@
 ---
-title: 2) Macro-evolutionary comparisons across bony and cartilaginous fish, and across all vertebrates
+title: Macro-evolutionary comparisons across bony and cartilaginous fish, and across all vertebrates
 date: 2022-01-02
 image:
   focal_point: 'top'

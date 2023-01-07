@@ -1,5 +1,5 @@
 ---
-title: 1) Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes
+title: Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes
 date: 2022-01-03
 ---
 Cichlids represent the most extraordinary example of a vertebrate explosive adaptive radiation — approximately 2000 species have evolved within the last 10 million years in the Rift Valley Lakes of Africa. In these lakes, cichlids have diversified in diet, body size, mating behaviours, colouration, and habitat preferences. We have recently demonstrated that these cichlids display incredible diversity in sleep-related behaviours (sleep timing, sleep duration).

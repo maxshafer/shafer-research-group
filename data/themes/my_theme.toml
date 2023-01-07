@@ -1,0 +1,21 @@
+# Theme metadata
+name = "my_theme"
+
+# just to show if theme is uses
+[light]
+  # very red
+  primary = "black"
+  primary_light = "black"
+  background = "#0F3864"
+  text_color_light = "black"
+  text = "black"
+  text_active = "black"
+
+  
+  # Menu
+  menu_primary = "white"
+  menu_text = "black"
+  menu_text_active = "black"
+  menu_title = "black"
+
+[dark]

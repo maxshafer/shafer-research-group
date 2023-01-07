@@ -36,3 +36,8 @@ design:
   spacing: {padding: [75px, 0, 75px, 0]}
 
 ---
+<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b>
+
+<br>
+
+We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach.</p>
