@@ -9,7 +9,7 @@ design:
   background:
     video:
       # Name of video in `assets/media/`.
-      path: Cichlid_clips_long.mp4
+      path: cichlid_clips_long.mp4
       # Post-processing: flip the video horizontally?
       flip: false
 
