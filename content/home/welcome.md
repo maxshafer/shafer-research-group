@@ -31,5 +31,5 @@ We have a commitment to fostering a comfortable, and safe environment for people
 
 <br>
 
-If you are interested in contributing to, working with, or joining to the <b>Sleep Evolution Group</b> in any capacity please reach out to Prof. Maxwell (Max) Shafer.
+If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Prof. Maxwell (Max) Shafer</a>.
 </p>
