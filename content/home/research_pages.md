@@ -3,12 +3,12 @@
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 35
 
 title: 'Research Overview'
 subtitle: ''

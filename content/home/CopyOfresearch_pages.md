@@ -15,7 +15,7 @@ weight: 30
 ## Third picture 679 x 550 becomes 650 x 513
 ---
 
-<section id="research_pages" class="home-section wg-portfolio" style="padding:75px 0 75px 0">
+<section id="research_pages" class="home-section wg-portfolio" style="padding:75px 0">
 
 <div class="home-section-bg" style="background-color:#fff">
 </div>
