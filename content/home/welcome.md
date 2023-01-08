@@ -19,17 +19,16 @@ design:
 <br> 
 <br>
 
-<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b>
+<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b></p>
 
 <br>
 
-We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).
+<p align="justify">We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
 
 <br>
 
-We have a commitment to fostering a comfortable, and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.
+<p align="justify">We have a commitment to fostering a comfortable, and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.</p>
 
 <br>
 
-If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Prof. Maxwell (Max) Shafer</a>.
-</p>
+<p align="justify">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Prof. Maxwell (Max) Shafer</a>.</p>
