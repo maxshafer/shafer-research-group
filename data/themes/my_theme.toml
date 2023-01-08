@@ -9,7 +9,7 @@ name = "my_theme"
   background = "#0F3864"
   text_color_light = "black"
   text = "black"
-  text_active = "black"
+  text_active = "blue"
 
   
   # Menu

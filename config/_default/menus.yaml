@@ -5,13 +5,13 @@
 
 main:
   - name: Research
-    url: post
+    url: '#research_overview'
     weight: 10
   - name: People
-    url: people
+    url: '#people'
     weight: 20
   - name: Publications
-    url: publication
+    url: '#publications'
     weight: 30
   - name: CSB @ UofT
     url: https://csb.utoronto.ca/

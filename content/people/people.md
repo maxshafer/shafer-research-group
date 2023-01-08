@@ -30,4 +30,5 @@ design:
   background:
     color: "white"
     text_color_light: false
+  spacing: {padding: [75px, 0, 75px, 0]}
 ---

@@ -8,7 +8,6 @@ headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
 
 active: true
-#title: Research Overview
 design:
   spacing:
     padding: ['150px', '0', '75px', '0']
