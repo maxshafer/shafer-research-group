@@ -27,7 +27,7 @@ We study the evolution and genomics of sleep variation across ~~fish~~ *_animals
 
 <br>
 
-We have a strong commitment to fostering a comfortable, and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.
+We have a commitment to fostering a comfortable, and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.
 
 <br>
 
