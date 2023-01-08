@@ -23,7 +23,7 @@ design:
 
 <br>
 
-<p align="justify">We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
+<p align="justify">We study the evolution and genomics of sleep variation across <s>fish</s> <i>animals</i> using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
 
 <br>
 
