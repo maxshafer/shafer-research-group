@@ -23,4 +23,13 @@ design:
 
 <br>
 
-We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
+We study the evolution and genomics of sleep variation across ~~fish~~ *_animals_* using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).
+
+<br>
+
+We have a strong commitment to fostering a comfortable, and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.
+
+<br>
+
+If you are interested in contributing to, working with, or joining to the <b>Sleep Evolution Group</b> in any capacity please reach out to Prof. Maxwell (Max) Shafer.
+</p>

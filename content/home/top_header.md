@@ -9,7 +9,7 @@ design:
   background:
     video:
       # Name of video in `assets/media/`.
-      path: cichlid_clips_long.mp4
+      path: Cichlid_clips_old_medium.mp4
       # Post-processing: flip the video horizontally?
       flip: false
 
@@ -28,6 +28,6 @@ advanced:
 </div>
 </head>
 
-<center><p class="centered" style="color:#fff;font-size:2.5rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">Decoding the evolution and genomics of sleep</p>
-<br>
-<p class="centered" style="color:#fff;font-size:1.75rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000"><br>Shafer Lab @ UofT</p></center>
+<center>
+<p class="centered" style="color:#fff;font-size:2.5rem;text-shadow:0 0 2px #000,0 0 2px #000,0 0 2px #000,0 0 2px #000">Decoding the evolution and genomics of sleep</p>
+</center>

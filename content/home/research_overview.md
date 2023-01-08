@@ -43,7 +43,7 @@ design:
                 </h4>
                   <div class="article-style">
                     <p></p>
-                    <p>Cichlids represent the most extraordinary example of a vertebrate explosive adaptive radiation — approximately 2000 species have evolved within the last 10 million years in the Rift Valley Lakes of Africa. In these lakes, cichlids have diversified in diet, body size, mating behaviours, colouration, and habitat preferences. We have recently demonstrated that these cichlids display incredible diversity in sleep-related behaviours (sleep timing, sleep duration).
+                    <p>Cichlids represent the most extraordinary example of a vertebrate explosive adaptive radiation — approximately 2000 species have evolved within the last 10 million years in the Rift Valley Lakes of Africa. We have recently demonstrated that these cichlids display incredible diversity in sleep-related behaviours (sleep timing, sleep duration). Work in this area of the lab is focused on understanding the evolution, ecologies, and molecular mechanisms underlying this varition.
                     </p>
                     <p></p>
                   </div>
@@ -53,11 +53,11 @@ design:
           <div class="project-card project-item isotope-item" style="position: absolute; left: 400px; top: 0px;">
             <div class="card">
               <a>
-                <img src="/post/macroevolution/featured_hu1fd258748b63083b57aecdf51d823f3b_290101_550x0_resize_q75_h2_lanczos.webp" height="753" width="550" alt="Macro-evolutionary comparisons across bony and cartilaginous fish, and across all vertebrates" class="img-responsive" loading="lazy">
+                <img src="/post/macroevolution/featured_hu1fd258748b63083b57aecdf51d823f3b_290101_550x0_resize_q75_h2_lanczos.webp" height="753" width="550" alt="Macro-evolutionary comparisons across fish and vertebrates" class="img-responsive" loading="lazy">
               </a>
                 <div class="card-text">
                   <h4>
-                    <a>Macro-evolutionary comparisons across bony and cartilaginous fish, and across all vertebrates
+                    <a>Macro-evolutionary comparisons across fish and vertebrates
                     </a>
                   </h4>
                     <div class="article-style">
@@ -81,7 +81,7 @@ design:
                     </h4>
                     <div class="article-style">
                       <p></p>
-                      <p>We use aim to use a combination of traditional model organisms, as well as functional genomic, behavioural, molecular, and circuit based techniques to characterise novel sleep genes identified through our evolutionary comparisons.
+                      <p>We use aim to use a combination of traditional model organisms, as well as functional genomic, behavioural, molecular, and circuit based techniques to characterise novel sleep genes and circuits identified through our evolutionary comparisons.
                       </p>
                       <p></p>
                     </div>
