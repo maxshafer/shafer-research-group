@@ -15,7 +15,7 @@ weight: 30
 ## Third picture 679 x 550 becomes 650 x 513
 ---
 
-<section id="research_pages" class="home-section wg-portfolio" style="padding:75px 0">
+<section id="research_pages" class="home-section wg-portfolio" style="padding:75px 0 75px 0">
 
 <div class="home-section-bg" style="background-color:#fff">
 </div>
@@ -24,9 +24,9 @@ weight: 30
       <div class="section-heading col-12 mb-3 text-center">
         <h1 class="mb-0">Research Overview</h1>
       </div>
-      <div class="col-12" style="left: -200px;">
-        <div class="isotope projects-container js-layout-masonry" style="left:0px; position: relative; height: 822.078px; width: 1200px;">
-          <div class="project-card project-item isotope-item" style="position: absolute; left: 0px; top: 0px;">
+      <div class="col-12">
+        <div class="isotope projects-container js-layout-masonry">
+          <div class="project-card project-item isotope-item">
             <div class="card">
               <a>
               <img src="/post/microevolution/featured_huef45786bef8e896b52d08cf04469431c_1600721_550x0_resize_q75_h2_lanczos.webp" height="608" width="550" alt="Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes" class="img-responsive" loading="lazy">
