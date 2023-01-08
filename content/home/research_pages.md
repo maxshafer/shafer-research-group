@@ -3,7 +3,7 @@
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
-active: true
+active: false
 # This file represents a page section.
 headless: true
 

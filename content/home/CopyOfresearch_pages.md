@@ -10,6 +10,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
+design:
+  columns: '1'
+  background:
+    color: 'white'
+  spacing: {padding: [75px, 0, 75px, 0]}
+  
 ## First picture 608 x 550 becomes 650 x 588
 ## Second picture 753 x 550 becomes 650 x 402
 ## Third picture 679 x 550 becomes 650 x 513
