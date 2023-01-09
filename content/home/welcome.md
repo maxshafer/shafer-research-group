@@ -19,7 +19,7 @@ design:
 <br> 
 <br>
 
-<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display remarkable variation in sleep, and what genes and cell types drive such variation?</b></p>
+<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display variation in sleep, and what genes and cell types drive such variation?</b></p>
 
 <br>
 
@@ -27,8 +27,8 @@ design:
 
 <br>
 
-<p align="justify">We have a commitment to fostering a comfortable, and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.</p>
+<p align="justify">We have a commitment to fostering a comfortable and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.</p>
 
 <br>
 
-<p align="justify">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Prof. Maxwell (Max) Shafer</a>.</p>
+<p align="justify">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Dr. Maxwell (Max) Shafer</a>.</p>
