@@ -22,8 +22,9 @@ feature:
     url: https://csb.utoronto.ca/
 #    name: Knowledge Base
 #    description: For teams
-#  - icon: bch_logo_2
-#    icon_pack: custom
+  - icon: bch_logo_2
+    icon_pack: custom
+    url: https://biochemistry.utoronto.ca/
 #    name: Knowledge Base
 #    description: For teams
 
