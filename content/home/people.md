@@ -29,7 +29,7 @@ design:
   show_role: true
   show_social: true
   background:
-    color: "white"
-    text_color_light: false
+    color: "black"
+    text_color_light: true
   spacing: {padding: [75px, 0, 75px, 0]}
 ---

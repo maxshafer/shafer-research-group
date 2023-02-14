@@ -13,22 +13,22 @@ design:
     padding: ['150px', '0', '75px', '0']
   columns: '1'
   background:
-    color: "white"
-    text_color_light: false
+    color: "black"
+    text_color_light: true
 ---
 <br> 
 <br>
 
-<p align="justify">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display variation in sleep, and what genes and cell types drive such variation?</b></p>
+<p align="justify" style="color:white">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display variation in sleep, and what genes and cell types drive such variation?</b></p>
 
 <br>
 
-<p align="justify">We study the evolution and genomics of sleep variation across <s>fish</s> <i>animals</i> using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
+<p align="justify" style="color:white">We study the evolution and genomics of sleep variation across <s>fish</s> <i>animals</i> using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
 
 <br>
 
-<p align="justify">We have a commitment to fostering a comfortable and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.</p>
+<p align="justify" style="color:white">We have a commitment to fostering a comfortable and safe environment for people to perform their best. As a group, we believe in continually educating ourselves and striving towards a more inclusive scientific culture.</p>
 
 <br>
 
-<p align="justify">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Dr. Maxwell (Max) Shafer</a>.</p>
+<p align="justify" style="color:white">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Dr. Maxwell (Max) Shafer</a>.</p>
