@@ -30,10 +30,10 @@
 }
 
 .navbar {
-  height: 70px;
+  height: 100px;
   background: $sta-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: #{$sta-font-size-small}px;
+  font-size: #{$sta-font-size}px;
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
@@ -44,7 +44,7 @@
     position: relative;
   }
   @include media-breakpoint-down(md) {
-    height: 50px;
+    height: 65px;
 
     .navbar-nav-scroll {
       width: 100%;
@@ -184,7 +184,7 @@
   height: -webkit-fill-available;
   height: -webkit-stretch;
   height: stretch;
-  max-height: 60px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
+  max-height: 70px; // For lg+ responsive sizing. 60px height +10px v-padding = 70px
   max-width: fit-content; // Must override default responsive image style.
 }
 
