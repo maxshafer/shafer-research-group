@@ -1,10 +1,10 @@
 ---
 # Display name
-title: N. toae 
+title: L. ocellatus
 
 # Username (this should match the folder name)
 authors:
-  - fish5
+  - Lamoce
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
   - Fish Species
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lamprologus ocellatus is a species of shell dwelling cichlid endemic to Lake Tanganyika. It is a popular aquarium fish due to its small size, appearance, and intelligence. Juveniles measure about 6 millimetres at hatching, while adults grow up to 5.8 centimetres TL (Wikipedia).

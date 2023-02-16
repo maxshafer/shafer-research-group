@@ -1,10 +1,10 @@
 ---
 # Display name
-title: L. attenuatus 
+title: N. brichardi
 
 # Username (this should match the folder name)
 authors:
-  - fish2
+  - Neobri
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
   - Fish Species
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Neolamprologus brichardi is a species of cichlid endemic to the alkaline waters of Lake Tanganyika in East Africa (Wikipedia).

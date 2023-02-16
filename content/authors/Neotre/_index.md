@@ -1,10 +1,10 @@
 ---
 # Display name
-title: T. moorii 
+title: N. tretocephalus
 
 # Username (this should match the folder name)
 authors:
-  - fish4
+  - Neotre
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
   - Fish Species
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Neolamprologus tretocephalus is a species of cichlid endemic to Lake Tanganyika where it is found in sandy areas in the northern half of the lake. It is a predator on molluscs. This species can reach a length of 15 centimetres TL. This species can also be found in the aquarium trade (Wikipedia).

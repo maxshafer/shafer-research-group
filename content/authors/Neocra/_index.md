@@ -1,10 +1,10 @@
 ---
 # Display name
-title: A. calvus
+title: N. crassus 
 
 # Username (this should match the folder name)
 authors:
-  - fish1
+  - Neocra
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
   - Fish Species
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Neolamprologus crassus is a species of cichlid endemic to Lake Tanganyika where it can be found in the southwestern part of the lake, in the waters of the Democratic Republic of the Congo. This species can reach a length of 7 centimetres TL. It can also be found in the aquarium trade (Wikipedia).

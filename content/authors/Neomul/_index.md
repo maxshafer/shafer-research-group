@@ -1,10 +1,10 @@
 ---
 # Display name
-title: C. frontosa 
+title: N. multifasciatus
 
 # Username (this should match the folder name)
 authors:
-  - fish3
+  - Neomul
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
   - Fish Species
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Neolamprologus multifasciatus is one of the small shell-dwelling cichlids endemic to Lake Tanganyika. The male reaches 5 cm in length, and the female only 2.5 cm in the aquarium. In the wild, they reach only 3 centimetres in standard length of male and female reaches less than 2.2 centimetres in standard length (Wikipedia).
