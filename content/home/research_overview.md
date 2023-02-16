@@ -20,6 +20,15 @@ design:
 ## Second picture 753 x 550 becomes 650 x 402
 ## Third picture 679 x 550 becomes 650 x 513
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C2THYYG4QP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C2THYYG4QP');
+</script>
 
 <section id="research_pages" class="home-section wg-portfolio" style="padding:75px 0">
 

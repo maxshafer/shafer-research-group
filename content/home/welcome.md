@@ -16,6 +16,16 @@ design:
     color: "black"
     text_color_light: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C2THYYG4QP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C2THYYG4QP');
+</script>
+
 <br> 
 <br>
 
