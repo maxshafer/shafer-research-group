@@ -5,7 +5,7 @@
 title: Selected publications
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 45 # Order that this section will appear.
+weight: 50 # Order that this section will appear.
 
 active: true
 design:
@@ -13,8 +13,8 @@ design:
     padding: ['75px', '0', '75px', '0']
   columns: '1'
   background:
-    color: "white"
-    text_color_light: false
+    color: "black"
+    text_color_light: true
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2THYYG4QP"></script>
