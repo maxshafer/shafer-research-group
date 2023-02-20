@@ -44,13 +44,13 @@ design:
         <!-- first image, full -->
           <div class="gallery-item gallery-item--full">
             <a data-fancybox="gallery-demo">
-            <img src="https://lh3.googleusercontent.com/SCiGTnNj1tLdktoc7vSQfXSO6xNyDIb8QuFCFhELexIdsvcueySsypoatpdxXqdfUHv7QQnkhT53x4Wja6pEDC1jzIhLuf1ZYq1zBvfrp_XGs4qOgIjf8iJkvfCr5XQC7yRwpXtwMnGXwmTvJFUpiauKc6UyHbqfgj3fJ4tFKdlf25tCAWzN5RsDILDiGXGOoBYWDObxaleUrh0-aMEqUkmKRPHK_zWD6yBV9Z421JLaV3jvbz202fh_uZbXISbtwj0dqJ27mFvzdHYzBfeLW925QocpzTLUsVSXV6H2a3t2SWs6U_8FshwwSdvQxZNgT2n6iQyyhjGRqpRWOyIVoVKpqUnsbzfckuPCaBNQ3vTvrh3XzyeJrJL9EyYLUFRtZ-eS-KjwnoN6bStBpQ_ud35W03NE9jXSXzK4XqMtNZXkdnO89bTsW_HSxBRMMGwn1tty4ro56pTj1NHQ3A8-dvPrffh_dXiEcOC1AC8suOgMR3Zk7SSOMjrrcixYlcw8aR8JguWXG8Le43U4IXZqWM9WRbLYcp7yjJ2GFn0e6nZQkuGFtbbYRilOQxk7ySlZotL4YBEB8_2d1rPC_mOrP28pAS4xASfwXJiRxhTrn1uI1eAKbqsaDdlmfQk0hHzVunigc5Pj_my__bIEc_7XcqtfafTtZRaWm9j-H-Kyr7rGTwUz-O_vOEGXgurFADrMDw9uQ-bvWwIPc1NVp1J44fr9n5F-AOTZ29DJclFPPp0OolvHeS0rC3wwonY-HKwxcbsXKrvvrMWo8IkuDPkU5bIkx4rTq5gsVcd8-UcvaHu9SpltilYoKEBNqB7-8fizot-81sKBVVvc1bjJFS48_nSJMQlYt0MMkreFzLX588c8rmVteJmPsNd1O9BDWKcjp9edXG9xutuLCyw1k-i2OcDABLLp9DaVvjCJSw-rIu7O=w3360-h914-no?authuser=0" loading="lazy" alt="lake tanganyika">
+            <img src="https://lh3.googleusercontent.com/5gs8rCOdx1hVcngT7Ofu49g0xVEMfNgrUd-S9NsVXgLvaM2owFUrdLtPnn1R6cEpplP_0BDJsU6aMF9jJBhxVh_UoLsBCAi7PD0I_0pGhElFAA7A_kl-gKRAjbY9S1NmSKE1VlsR5E4=w1920-h1080" loading="lazy" alt="lake tanganyika">
             </a>
           </div>
         <!-- second image, square -->
           <div class="gallery-item gallery-item--medium">
             <a data-fancybox="gallery-demo">
-            <img src="https://lh3.googleusercontent.com/nqvD7IhDWgQE24tDW4qksLV2e6HBC_NHCFT6TQIiuqaiAiJQ9Kj3sA_pbNTL8rugV0pkPNO-T4GsX7cgd99u6NSZBwVICkLVxxpHrvlZS3BQsYa7ofSPDyrfLID__Uac0_DgQJH_51p0r6QHP-vCQA0khEsYIXWI4GR6RZGNtP8amOiec_RT089N8Ea5659yhVCQltO9TTw9sWPqX8Z7nxWa7VfBzguVguCs2ODMYUlPl3gQ1De_yJ_KYA7-5N4eojSAASvfaqpjUMZu2Zo2Y3DtUFJ6j8vjKnWK9VqXaWJLVpalkwzVNvlQnnKDIGJiGiUKe_nUdsf6980x2QG6YpCIvhG4_5nU-I7_rvWwx8bwlNjYh_dvqAEGQXwJDFwvFESCzb4bO9z0RQEA686ybIDe1o4t_ZCr1jUI_N_O9dCqKqYpi7Q5ZifjtA_MAd7ZKovBmnNHCSYurfg-vlf6DTN0hCIVBory9GzyWh3risvX4liKdLrZ9IdbGsk5RKvElTBF4jWMkjkUrjAxgYZ9XZ4WffnsXVviTUC1uJZod-d_2yX-Q0wYgX3RU91GQ8G3dUuX20m3pnp1IaoI8IusCoaCQoxokYgS9FJDGb-toClAUSy980ejqWf9VviPpSvjlbsNuAPjUb608g-umuuWz_jgmtkUI2jVOPhyL57PjWcnV7bYGxjI5hpKLTzhbcslWXP_C7Gi_0kI6T_ZaNl8vgEyrOXbYk8nAMIJ0bHI1W12iPMnwMpjmUtltBv57cTUayz_igDSfthr8TguxkGLkAL2-6P1Pu1anM_7zIDTOH7q-7vRSpcH4PlzZ51v8DOp_0eUMgHM81uRe0BFim_fQAIoVvepSD9ORg0tQ2RsWclDfWmNI2kg4QxkfaOJpM0r2aDbv0J9JqA9MmQBTdVg5ujoMVqOTwQr1rcu7Nyck5MF=w1248-h1662-no?authuser=0" loading="lazy">
+            <img src="https://lh3.googleusercontent.com/VvgcMVfD6Hbue-0JI_CbO6j8zRELx8QujLdPobKV624qZsBhx2XH_eC0665JAs27zPfzvbzSdAaRXtRkZHFXrWusSrWKYvZqJUNnRNciK7XvlXpwKWuqR_lNfTXaxSgok7K5rd0_GYw=w1920-h1080" loading="lazy">
             </a>
           </div>
         <!-- third image, square -->
