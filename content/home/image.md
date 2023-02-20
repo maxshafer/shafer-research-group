@@ -27,6 +27,7 @@ design:
     padding: ['25%', '0', '0', '0']
 
 ---
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2THYYG4QP"></script>
 <script>
