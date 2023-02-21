@@ -39,19 +39,19 @@ design:
         <!-- first image, full -->
           <div class="gallery-item gallery-item--smalllogo">
             <a data-fancybox="gallery-demo" href = "https://www.utoronto.ca/" target="_blank">
-            <img src="media/icons/University_of_Toronto-Logo.wine_2.svg" alt="lake tanganyika">
+            <img src="media/icons/University_of_Toronto-Logo.wine_2.svg" alt="The University of Toronto">
             </a>
           </div>
         <!-- second image, square -->
           <div class="gallery-item gallery-item--smalllogo">
             <a data-fancybox="gallery-demo" href = "https://csb.utoronto.ca/" target="_blank">
-            <img src="media/icons/csb_logo_2.svg">
+            <img src="media/csb_logo.jpeg" alt="Deparment of Cell & Systems Biology @ UofT">
             </a>
           </div>
         <!-- image, square -->
           <div class="gallery-item gallery-item--smalllogo">
             <a data-fancybox="gallery-demo" href = "https://biochemistry.utoronto.ca/" target="_blank">
-            <img src="media/icons/bch_logo_2.svg">
+            <img src="media/bch_logo.jpeg" alt="Department of Biochemistry @ UofT">
             </a>
           </div>
         </div>
