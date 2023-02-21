@@ -45,7 +45,7 @@ design:
         <!-- second image, square -->
           <div class="gallery-item gallery-item--smalllogo">
             <a data-fancybox="gallery-demo" href = "https://csb.utoronto.ca/" target="_blank">
-            <img src="media/csb_logo.jpeg" alt="Deparment of Cell & Systems Biology @ UofT">
+            <img src="../../media/csb_logo.jpeg" alt="Deparment of Cell & Systems Biology @ UofT">
             </a>
           </div>
         <!-- image, square -->
