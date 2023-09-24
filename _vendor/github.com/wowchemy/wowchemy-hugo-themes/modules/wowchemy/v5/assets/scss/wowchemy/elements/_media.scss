@@ -181,6 +181,11 @@ svg {
     grid-row-end: span 3;
   }
 
+  &--wide {
+    grid-row-end: span 2;
+    grid-column-end: span 2;
+  }
+
   &--full {
     grid-column-end: auto;
 

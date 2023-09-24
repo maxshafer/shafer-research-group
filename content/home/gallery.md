@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 50
 
 design:
   columns: '1'
@@ -118,6 +118,18 @@ design:
           <div class="gallery-item gallery-item--medium">
           <a data-fancybox = "fish">
               <img src="https://lh3.googleusercontent.com/jtOOA5jzxTA0U5lUVe9n-Uy4Q-ucLavl7QKqI9e9sn42H2GNqohww3QfQWYnnT8esqIJn6Kcdgc623SI6rHfYcnYKAMfxOwUsYKDSTn61RSlvEEWW-wPEN1huOSPd4W9mPA_np6EWPs=w1920-h1080" loading="lazy">
+              </a>
+          </div>
+          <!-- seventh image, square -->
+          <div class="gallery-item gallery-item--medium">
+            <a data-fancybox="gallery-demo">
+              <img src="https://lh3.googleusercontent.com/pw/AIL4fc-FMJO3RquPXe-ltHrC74Uulb_Ua20sVKz6HXRfX6phZ9Fz4Vr7SLemRQY3CExvq_DAaVwz98jOGuX9E672MQGcETdYp7luEb4R0G27BtgWO7j_ePMjfkJGAKpgX3inX26CzSMfhI9sSGA4aZb5SHKLGejxuvZ5E0O3i2GTzw42jl20fF_Ktogd0JpSufMPAgQNVAN_V84Pku90FFwdtvADdbdaGn1BlBGJeV6ysAYf06wNF_LrM171LC2mnu2vzAxNYtB-Axr8NjdeXP9FfGh0dOWLWwP_1PPcauNsy1WxEpl3yJjSQM3A5TYMZO3ulc8EG7C7hcZNEKd6-O3SEuL8ZBQimROsQOYQcvykF3cq9YZIMiDhrGSn0MeBWzNnFc-N5bA7D_Qw8VMmgnycN80J2aWEut_u3mWlT8xxHH9JAXixNH0DpZtgRHx4vqZZfm4jmTBAhMKko4vjVmeQa4v--cqNTn_dTEEqjHI5BikicVTNxwnQKgt9S_Wz2Tg79bJI8qQOnK3qVB8ArE_GABVljcjzOvxPV7LmJAR444x0Tsyx8S8eAuiBndE0JdaU3F5TQ33-IvAJ5oMIDQYd6Aogj5WR9OkT84mslF6UByP7g-RTPG60uZUVt0cVR0zLxGdgFEMAsF3ndP-XNC8f3beWz-47iYoLfYM5B-adLHqEAK_DaJhFpW7XdhMniZ1gu6pORx_NVfnTyzFEgGbvMHpKzKDr_p5SKKkJlnYhnoH-mtWsWgcdd9FWy-9IjoUm2rwp9t9BvzycrYtbpr6_rU3coVSf8xUpBVRJXYItPXVR6NbOkyxIPSqyiaSDjOzg3B5m7CrZV6sFBEGODkAPlrsYNVTC50ZBLkAxVpSGcuJMMm009vQ4WeTeE-iwqhWqJhQj8ixrybJzcTaEvdxiK5w=w1152-h1536-s-no?authuser=0" loading="lazy">
+            </a>
+          </div>
+        <!-- image, square -->
+          <div class="gallery-item gallery-item--wide">
+          <a data-fancybox = "fish">
+              <img src="https://lh3.googleusercontent.com/pw/AIL4fc_efHVOsDTFchMbhgtgvoDsMbj7SzC0LkIjNkucM6tWW1EOQi3dQbsZBuOM2zpsNKQC_J2RMTW8oxFAyZZY7mqlS-RZ2mlGfqlE7l6EelyTtdP2SC8XeSawDq8xo9A7qsJ3njELvmJF-FpbM2FRDtUL_yuJTXOgrb4iHg05brd0depQpVskcIuv2CjIRyalzuljWtYvUuaJAas7phL81szawAAktL-kJU9z27x7eNxnTPt9QnUWym_cnnhz8vH3kHEj_e95dsF-2YhK3fSZRWJfZP_YteaAeqaSz4Uw84cBkyLkk3-NrPWgvqCxuNX0uiY4ZGhTlLU9UkasB8KVVxzQeRzduz_kL-WTiHrQNcMvNW7QR-ClPoor7gGbNX-EwXVPuJHwOlwMNtUPWktzQNmRyDryRJ7mb3ecHmbpZWVXb8ndX6BVbbsmR8W0Wk1tNoePpOz1mkp8iekEP2We71aNdQkoKpBRCvBm3unpZtgMr3Y_hN-e7Qlt7mFT4k_31Xaza3318KwFAMjP5YqyRcmHheesJiI2ZssBKV23waYAPLKFGbAG8zkH7w-JT8k-mGUZaiSyUB8MeOJGtiy9wbvGmWJ2sWi8wi8Npxq0BnkMpqKkb9IdX1kLCdfDK1rz4_QnlINIxJZd_81L3_H1dQ9rUAfL15AlRcIhlGqTL5hj9apKUcgzJ-UNiMnLzF9CPDkt4II_rSiBv_A_doRYofJpIx3FVjZEv4DWMOGvolX8Fjx-91AAciZ37GkJCnpM7kJxQ2D5rnGXwBdNcIqX2kAz2OcoMUWJW-HfiP0Z5NPtHPNRToJ7eEIg-ukn56NuO8aMB5YNeTcTc8LhPRZ2qk-_FRrS8kZifMeajiUcSe_EjLy1qyUCFa3CYTgBwtPPKwg8ZRCiyE21xAnoJcOK24U=w2730-h1536-s-no?authuser=0" loading="lazy">
               </a>
           </div>
         </div>

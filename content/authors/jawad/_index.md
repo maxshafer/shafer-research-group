@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Laura Fritschi
+title: Jawad Karim
 
 # Username (this should match the folder name)
 authors:
-  - laura
+  - jawad
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student (Co-Supervised with Dr. Walter Salzburger)
+role: Volunteer
 
 # Organizations/Affiliations
-organizations:
-  - name: University of Basel
-    url: ''
+# organizations:
+#   - name: Cell & Systems Biology @ the University of Toronto
+#     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -23,7 +23,7 @@ organizations:
 # interests:
 #   - Shell dwelling cichlids
 #   - Diving
-# 
+
 # education:
 #   courses:
 #     - course: MSc in Zoology
@@ -62,6 +62,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students (Co-Supervised)
+  - Undergraduate Students
 ---
-
