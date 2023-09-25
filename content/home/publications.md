@@ -5,16 +5,16 @@
 title: Selected publications
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 50 # Order that this section will appear.
+weight: 40 # Order that this section will appear.
 
 active: true
 design:
   spacing:
-    padding: ['75px', '0', '75px', '0']
+    padding: ['50px', '0', '50px', '0']
   columns: '1'
   background:
-    color: "black"
-    text_color_light: true
+    color: "white"
+    text_color_light: false
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2THYYG4QP"></script>
@@ -53,7 +53,7 @@ design:
 
 <ul class="fa-ul">
 
-  <li><i class="fa-li fa fa-file"></i>Burguera, D., Dionigi, F., Kverková, K., Winkler, S., Brown, T., Pippel M., Zhang, Y., <u><b>Shafer, M.E.R.</u></b>, Nichols, A.L.A, Myers, E., Němec, P., Musilova, Z. Expanded olfactory system in fishes capable of terrestrial exploration. bioRxiv. 2022. <a href="https://doi.org/10.1101/2022.12.05.518831" target="_blank" rel="noopener noreferrer">DOI</a></li>
+  <li><i class="fa-li fa fa-file"></i>Burguera, D., Dionigi, F., Kverková, K., Winkler, S., Brown, T., Pippel M., Zhang, Y., <u><b>Shafer, M.E.R.</u></b>, Nichols, A.L.A, Myers, E., Němec, P., Musilova, Z. Expanded olfactory system in fishes capable of terrestrial exploration. BMC Biology. 2023. <a href="https://doi.org/10.1186/s12915-023-01661-8" target="_blank" rel="noopener noreferrer">DOI</a></li>
   
   <li><i class="fa-li fa fa-file"></i><u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Sawh, A.N., Schier, A.F.<sup>*</sup> Gene family evolution underlies cell type diversification in the hypothalamus of teleosts. Nature Ecology & Evolution. 2021. <a href="https://doi.org/10.1038/s41559-021-01580-3" target="_blank" rel="noopener noreferrer">DOI</a></li>
   

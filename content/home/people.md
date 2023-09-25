@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Lab Members
 subtitle:
@@ -24,7 +24,7 @@ content:
     - Technicians
     - Undergraduate Students
     - Alumni
-    #- Fish Species
+    - Fish Species
 design:
   show_interests: false
   show_role: true
