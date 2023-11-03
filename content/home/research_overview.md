@@ -14,7 +14,7 @@ design:
   columns: '1'
   background:
     color: 'white'
-  spacing: {padding: [75px, 0, 75px, 0]}
+  spacing: {padding: [50px, 0, 50px, 0]}
   
 ## First picture 608 x 550 becomes 650 x 588
 ## Second picture 753 x 550 becomes 650 x 402
