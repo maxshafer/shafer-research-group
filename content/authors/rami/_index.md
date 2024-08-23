@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yue Chen
+title: Rami Albanna
 
 # Username (this should match the folder name)
 authors:
-  - yue
+  - rami
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Bioinformatics and Computational Biology (BCB) Student
+role: CSB Undergraduate
 
 # Organizations/Affiliations
 # organizations:

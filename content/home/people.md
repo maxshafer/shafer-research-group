@@ -23,7 +23,6 @@ content:
     - Post-docs
     - Technicians
     - Undergraduate Students
-    - Alumni
     - Fish Species
 design:
   show_interests: false
