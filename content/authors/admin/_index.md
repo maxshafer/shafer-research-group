@@ -67,6 +67,7 @@ highlight_name: true
 user_groups:
   - Assistant Professor
   - Researchers
+  - Lab Members
 ---
 
 Maxwell Shafer is an incoming Assistant Professor in the department of Cell & Systems Biology at the University of Toronto (July 2023). He leads the Sleep Evolution Group, which studies the genomics and evolutionary history of sleep across animal phyla.

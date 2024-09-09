@@ -63,6 +63,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Ayasha Abdalla-Wyse is a Master's student in the Sleep Evolution lab led by Dr. Maxwell Shafer in the department of Cell & Systems Biology at the University of Toronto. She received her H.B.Sc. in Integrated Science at the University of British Columbia, where she worked with Dr. Daniel Goldowitz on studying cerebellar development.

@@ -63,6 +63,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Amelia Mesich is a Master's student in the Sleep Evolution lab led by Dr. Maxwell Shafer in the department of Cell & Systems Biology at the University of Toronto.
