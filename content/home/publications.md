@@ -57,7 +57,7 @@ design:
   
   <li><i class="fa-li fa fa-file"></i><u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Nichols, A.L.A, Schier, A.F., Salzburger, W. Frequent transitions from night-to-day activity after mass extinctions. bioRxiv. 2023. <a href="https://doi.org/10.1101/2023.10.27.564421" target="_blank" rel="noopener noreferrer">DOI</a></li>
 
-  <li style="margin-left: 75px;"><i class="fa-li fa fa-video-camera"></i>Do nocturnal habits help protect animals from extinction?</li>
+  <li style="margin-left: 75px;"><i class="fa-li fa fa-video-camera"></i><a href="https://www.science.org/content/article/do-nocturnal-habits-help-protect-animals-extinction" target="_blank" rel="noopener noreferrer">Do nocturnal habits help protect animals from extinction?</a></li>
 
   <li><i class="fa-li fa fa-file"></i>Burguera, D., Dionigi, F., Kverková, K., Winkler, S., Brown, T., Pippel M., Zhang, Y., <u><b>Shafer, M.E.R.</u></b>, Nichols, A.L.A, Myers, E., Němec, P., Musilova, Z<sup>*</sup>. Expanded olfactory system in fishes capable of terrestrial exploration. BMC Biology. 2023. <a href="https://doi.org/10.1186/s12915-023-01661-8" target="_blank" rel="noopener noreferrer">DOI</a></li>
   
