@@ -53,10 +53,12 @@ design:
 
 <ul class="fa-ul">
 
-  <li><i class="fa-li fa fa-file"></i>Nichols, A.L.A, <u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Indermaur, A., Rüegg, A., Gonzalez-Dominguez, R., Malinsky, M., Sommer-Trembo, C., Fritschi, L., Schier, A.F., Salzburger, W. Widespread temporal niche partitioning in an adaptive radiation of cichlid fishes. bioRxiv. 2024. <a href="https://doi.org/10.1101/2024.05.29.596472" target="_blank" rel="noopener noreferrer">DOI</a></li>
+  <li><i class="fa-li fa fa-file"></i>Nichols, A.L.A.<sup>†</sup>, <u><b>Shafer, M.E.R.<sup>†*</sup></u></b>, Indermaur, A., Rüegg, A., Gonzalez-Dominguez, R., Malinsky, M., Sommer-Trembo, C., Fritschi, L., Schier, A.F., Salzburger, W. Widespread temporal niche partitioning in an adaptive radiation of cichlid fishes. bioRxiv. 2024. <a href="https://doi.org/10.1101/2024.05.29.596472" target="_blank" rel="noopener noreferrer">DOI</a></li>
   
   <li><i class="fa-li fa fa-file"></i><u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Nichols, A.L.A, Schier, A.F., Salzburger, W. Frequent transitions from night-to-day activity after mass extinctions. bioRxiv. 2023. <a href="https://doi.org/10.1101/2023.10.27.564421" target="_blank" rel="noopener noreferrer">DOI</a></li>
-  
+
+  <li style="margin-left: 75px;"><i class="fa-li fa fa-video-camera"></i>Do nocturnal habits help protect animals from extinction?</li>
+
   <li><i class="fa-li fa fa-file"></i>Burguera, D., Dionigi, F., Kverková, K., Winkler, S., Brown, T., Pippel M., Zhang, Y., <u><b>Shafer, M.E.R.</u></b>, Nichols, A.L.A, Myers, E., Němec, P., Musilova, Z<sup>*</sup>. Expanded olfactory system in fishes capable of terrestrial exploration. BMC Biology. 2023. <a href="https://doi.org/10.1186/s12915-023-01661-8" target="_blank" rel="noopener noreferrer">DOI</a></li>
   
   <li><i class="fa-li fa fa-file"></i><u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Sawh, A.N., Schier, A.F.<sup>*</sup> Gene family evolution underlies cell type diversification in the hypothalamus of teleosts. Nature Ecology & Evolution. 2021. <a href="https://doi.org/10.1038/s41559-021-01580-3" target="_blank" rel="noopener noreferrer">DOI</a></li>
