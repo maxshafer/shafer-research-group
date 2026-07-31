@@ -27,7 +27,7 @@ design:
 </script>
 
 
-<p align="justify" style="color:white">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:max.shafer@gmail.com">Dr. Maxwell (Max) Shafer</a>. In general, my training philosophy is to provide each trainee with opportunities to learn and attain the skills they require for their chosen career path, and to provide a welcoming and safe place to excel.</p>
+<p align="justify" style="color:white">If you are interested in contributing to, working with, or joining the <b>Sleep Evolution Group</b> in any capacity please reach out to <a href="mailto:maxwell.shafer@utoronto.ca">Dr. Maxwell (Max) Shafer</a>. In general, my training philosophy is to provide each trainee with opportunities to learn and attain the skills they require for their chosen career path, and to provide a welcoming and safe place to excel.</p>
 
 <br>
 <p align="justify" style="color:white">If you are interested in a postdoctoral position, unless otherwise posted, it is typically required to apply to external funding. There are multiples sources available from the University (including the Data Sciences Institute, and  the Faculty of Arts & Science, among others) and the Federal and Provincial Governments in Canada (eg NSERC and CIHR). Funding is also available from some international agencies (e.g. HFSP, Marie-Curie), and for citizens of specific countries (USA, China, etc). If you join my lab as a Postdoctoral fellow, my philosophy is to guide and help you design a competitive and fund-able research program, therefore, I am happy to work with soon-to-be PhD graduates to design a project and apply for funding.</p>

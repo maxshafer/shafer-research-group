@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Julia Maja
+title: Shrinidhi Krishnan
 
 # Username (this should match the folder name)
 authors:
-  - julia
+  - shrinidhi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,4 @@ user_groups:
   - Lab Members
 ---
 
-Julia Maja is a PhD student in the Sleep Evolution lab led by Dr. Maxwell Shafer in the department of Cell & Systems Biology at the University of Toronto.
+Shrinidhi is a Master's student in the Sleep Evolution lab led by Dr. Maxwell Shafer in the department of Cell & Systems Biology at the University of Toronto.

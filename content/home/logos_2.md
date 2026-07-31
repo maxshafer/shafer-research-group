@@ -48,12 +48,7 @@ design:
             <img src="csb_logo.jpeg" alt="Deparment of Cell & Systems Biology @ UofT">
             </a>
           </div>
-        <!-- image, square -->
-          <div class="gallery-item gallery-item--smalllogo">
-            <a data-fancybox="gallery-demo" href = "https://biochemistry.utoronto.ca/" target="_blank">
-            <img src="bch_logo.jpeg" alt="Department of Biochemistry @ UofT">
-            </a>
-          </div>
+         </div>
         </div>
       </div>
     </div>

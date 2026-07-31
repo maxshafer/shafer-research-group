@@ -63,7 +63,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergraduate Students
-  - Lab Members
+  - Alumni
 ---
 
 Daniel Wu is an undergraduate work study student in the Sleep Evolution lab led by Dr. Maxwell Shafer in the department of Cell & Systems Biology at the University of Toronto.

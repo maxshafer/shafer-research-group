@@ -2,7 +2,7 @@
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
-title: Using comparative approaches to understand the evolution of sleep
+title: Using comparative approaches to understand the evolution of sleep and circadian rhythms
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
@@ -29,11 +29,11 @@ design:
 <br> 
 <br>
 
-<p align="justify" style="color:white">The biological mechanisms that regulate sleep are conserved across vertebrates, yet sleep displays remarkable variation both across and within species. <b>Why do animals display variation in sleep, and what genes and cell types drive such variation?</b></p>
+<p align="justify" style="color:white">The biological mechanisms that regulate circadian rhythms and sleep are conserved across vertebrates, yet these behaviours display remarkable variation both across and within species. <b>Why do animals display variation in sleep and circadian rhythms, and what genes and cell types drive such variation?</b></p>
 
 <br>
 
-<p align="justify" style="color:white">We study the evolution and genomics of sleep variation across <s>fish</s> <i>animals</i> using a two-pronged macro- and micro-evolutionary approach. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
+<p align="justify" style="color:white">We study the evolution and genomics of sleep and circadian rhythm variation across <s>fish</s> <i>animals</i> using multi-level evolutionary comparisons. We leverage the amazing diversity in sleep related phenotypes that we have discovered across both <b>African cichlid fish</b> (micro-evolution), and across the larger radiations of <b>bony and cartilaginous fishes</b> (macro-evolution).</p>
 
 <br>
 

@@ -53,9 +53,13 @@ design:
 
 <ul class="fa-ul">
 
-  <li><i class="fa-li fa fa-file"></i>Nichols, A.L.A.<sup>†</sup>, <u><b>Shafer, M.E.R.<sup>†*</sup></u></b>, Indermaur, A., Rüegg, A., Gonzalez-Dominguez, R., Malinsky, M., Sommer-Trembo, C., Fritschi, L., Schier, A.F., Salzburger, W. Widespread temporal niche partitioning in an adaptive radiation of cichlid fishes. Nature Ecology & Evolution (in press). 2025. <a href="https://doi.org/10.1101/2024.05.29.596472" target="_blank" rel="noopener noreferrer">DOI</a></li>
+  <li><i class="fa-li fa fa-file"></i><u><b>Fritschi, L.</u></b>, Nichols, A.L.A., Gonzalez-Dominguez, R., Indermaur, I., Rüegg, A., Salzburger, W.<sup>*</sup>, <u><b>Shafer, M.E.R.<sup>*</sup></u></b>. Social and environmental cues mask circadian activity patterns in a highly social shell-dwelling cichlid fish. bioRxiv. 2026. <a href="https://doi.org/10.64898/2026.05.28.728490" target="_blank" rel="noopener noreferrer">Preprint</a></li>
   
-  <li><i class="fa-li fa fa-file"></i><u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Nichols, A.L.A, Schier, A.F., Salzburger, W. Frequent transitions from night-to-day activity after mass extinctions. bioRxiv. 2023. <a href="https://doi.org/10.1101/2023.10.27.564421" target="_blank" rel="noopener noreferrer">DOI</a></li>
+  <li><i class="fa-li fa fa-file"></i><u><b>Abdalla-Wyse, A.</u></b>, Da Silva, J.Y.<sup>†</sup>, Kalia, R.<sup>†</sup>, Kalia, V.<sup>†</sup>, Landge, S., J.Y.<sup>†</sup>, Munasinghe, P.R.S.<sup>†</sup>, Schwartz, C.C.<sup>†</sup>, <u><b>Shafer, M.E.R.<sup>*</sup></u></b>. Sex-specific roles for yawning in the Emperor cichlid Boulengerochromis microlepis. bioRxiv. 2026. <a href="https://doi.org/10.64898/2026.05.28.728490" target="_blank" rel="noopener noreferrer">Preprint</a></li>
+  
+  <li><i class="fa-li fa fa-file"></i>Nichols, A.L.A.<sup>†</sup>, <u><b>Shafer, M.E.R.<sup>†*</sup></u></b>, Indermaur, A., Rüegg, A., Gonzalez-Dominguez, R., Malinsky, M., Sommer-Trembo, C., Fritschi, L., Schier, A.F., Salzburger, W. Widespread temporal niche partitioning in an adaptive radiation of cichlid fishes. Nature Ecology & Evolution. 2025. <a href="https://doi.org/10.1038/s41559-025-02819-z" target="_blank" rel="noopener noreferrer">DOI</a> | <a href="https://doi.org/10.1101/2024.05.29.596472" target="_blank" rel="noopener noreferrer">Preprint</a></li>
+  
+  <li><i class="fa-li fa fa-file"></i><u><b>Shafer, M.E.R.<sup>*</sup></u></b>, Nichols, A.L.A, Schier, A.F., Salzburger, W. Frequent transitions from night-to-day activity after mass extinctions. bioRxiv. 2023. <a href="https://doi.org/10.1101/2023.10.27.564421" target="_blank" rel="noopener noreferrer">Preprint</a></li>
 
   <li style="margin-left: 75px;"><i class="fa-li fa fa-video-camera"></i><a href="https://www.science.org/content/article/do-nocturnal-habits-help-protect-animals-extinction" target="_blank" rel="noopener noreferrer">Do nocturnal habits help protect animals from extinction?</a></li>
 
