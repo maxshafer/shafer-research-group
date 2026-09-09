@@ -18,14 +18,14 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    #- Assistant Professor
-    #- Graduate Students
+    - Assistant Professor
+    - Graduate Students
     #- Post-docs
-    #- Technicians
-    #- Undergraduate Students
+    - Technicians
+    - Undergraduate Students
     #- Fish Species
-    - Lab Members
-    - Alumni
+    #- Lab Members
+    #- Alumni
 design:
   show_interests: false
   show_role: true

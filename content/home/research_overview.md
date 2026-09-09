@@ -48,7 +48,7 @@ design:
               </a>
               <div class="card-text">
                 <h4>
-                  <a>Micro-evolutionary comparisons across Lake Tanganyika cichlid fishes</a>
+                  <a>Evolutionary comparisons across Lake Tanganyika cichlid fishes</a>
                 </h4>
                   <div class="article-style">
                     <p></p>
@@ -85,7 +85,7 @@ design:
                   </a>
                   <div class="card-text">
                     <h4>
-                      <a>Identifying and characterising new sleep genes
+                      <a>Identifying and characterising sleep genes and circuits
                       </a>
                     </h4>
                     <div class="article-style">

@@ -40,10 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:max.shafer@gmail.com'
+    link: 'mailto:maxwell.shafer@utoronto.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/maxwellshafer
+    link: https://bsky.app/profile/maxshafer.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=xX0mXFoAAAAJ&hl=en
